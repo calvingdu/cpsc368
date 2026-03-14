@@ -42,7 +42,8 @@ def setup_mit():
             state_po VARCHAR2(5),
             candidate VARCHAR2(100),
             party VARCHAR2(50),
-            votes NUMBER
+            votes NUMBER,
+            totalvotes NUMBER
         )
     """)
     print("MIT table created")
@@ -50,7 +51,11 @@ def setup_mit():
     # Insert CSV data
     rows = []
 
-    with open("../../cleaned_data/mit/mit_presidential_election_data.csv", newline="", encoding="utf-8") as f:
+    with open(
+        "../../cleaned_data/mit/mit_presidential_election_data.csv",
+        newline="",
+        encoding="utf-8",
+    ) as f:
         reader = csv.DictReader(f)
 
         for r in reader:
@@ -60,13 +65,14 @@ def setup_mit():
                 r["state_po"],
                 r["candidate"],
                 r["party"],
-                int(r["votes"])
+                int(r["votes"]),
+                int(r["totalvotes"])
             ))
 
     cursor.executemany("""
         INSERT INTO mit
-        (year, state, state_po, candidate, party, votes)
-        VALUES (:1,:2,:3,:4,:5,:6)
+        (year, state, state_po, candidate, party, votes, totalvotes)
+        VALUES (:1,:2,:3,:4,:5,:6,:7)
     """, rows)
 
     print("Inserted MIT data")
