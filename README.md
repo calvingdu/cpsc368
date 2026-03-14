@@ -29,6 +29,9 @@ Create a `.env` file in the root directory:
 
 ```
 API_KEY=your_api_key_here
+ORACLE_USER=ora_yourCWL
+ORACLE_PASSWORD=a12345678 (student number)
+
 ```
 
 Get a key from [Google Cloud Console](https://console.cloud.google.com/). Daily quota is 10,000 units — this project uses ~6,000–8,000 units total so **run one channel at a time** and split across days if needed.
