@@ -29,6 +29,8 @@ comment_id   VARCHAR2(100) PRIMARY KEY,
 video_id     VARCHAR2(50) NOT NULL,
 text         VARCHAR2(500),
 like_count   NUMBER,
+sentiment_score NUMBER,
+sentiment_label VARCHAR2(20),
 published_at DATE,
 CONSTRAINT fk_comment_video FOREIGN KEY (video_id)
     REFERENCES youtube_videos(video_id)
