@@ -1,0 +1,1838 @@
+[
+    {
+        "year":2020,
+        "state":"ALABAMA",
+        "state_po":"AL",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":849624,
+        "totalvotes":2323282
+    },
+    {
+        "year":2020,
+        "state":"ALABAMA",
+        "state_po":"AL",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1441170,
+        "totalvotes":2323282
+    },
+    {
+        "year":2020,
+        "state":"ALASKA",
+        "state_po":"AK",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":153778,
+        "totalvotes":359530
+    },
+    {
+        "year":2020,
+        "state":"ALASKA",
+        "state_po":"AK",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":189951,
+        "totalvotes":359530
+    },
+    {
+        "year":2020,
+        "state":"ARIZONA",
+        "state_po":"AZ",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1672143,
+        "totalvotes":3387326
+    },
+    {
+        "year":2020,
+        "state":"ARIZONA",
+        "state_po":"AZ",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1661686,
+        "totalvotes":3387326
+    },
+    {
+        "year":2020,
+        "state":"ARKANSAS",
+        "state_po":"AR",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":423932,
+        "totalvotes":1219069
+    },
+    {
+        "year":2020,
+        "state":"ARKANSAS",
+        "state_po":"AR",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":760647,
+        "totalvotes":1219069
+    },
+    {
+        "year":2020,
+        "state":"CALIFORNIA",
+        "state_po":"CA",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":11110250,
+        "totalvotes":17500881
+    },
+    {
+        "year":2020,
+        "state":"CALIFORNIA",
+        "state_po":"CA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":6006429,
+        "totalvotes":17500881
+    },
+    {
+        "year":2020,
+        "state":"COLORADO",
+        "state_po":"CO",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1804352,
+        "totalvotes":3279980
+    },
+    {
+        "year":2020,
+        "state":"COLORADO",
+        "state_po":"CO",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1364607,
+        "totalvotes":3279980
+    },
+    {
+        "year":2020,
+        "state":"CONNECTICUT",
+        "state_po":"CT",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1080831,
+        "totalvotes":1823857
+    },
+    {
+        "year":2020,
+        "state":"CONNECTICUT",
+        "state_po":"CT",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":714717,
+        "totalvotes":1823857
+    },
+    {
+        "year":2020,
+        "state":"DELAWARE",
+        "state_po":"DE",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":296268,
+        "totalvotes":504346
+    },
+    {
+        "year":2020,
+        "state":"DELAWARE",
+        "state_po":"DE",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":200603,
+        "totalvotes":504346
+    },
+    {
+        "year":2020,
+        "state":"DISTRICT OF COLUMBIA",
+        "state_po":"DC",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":317323,
+        "totalvotes":344356
+    },
+    {
+        "year":2020,
+        "state":"DISTRICT OF COLUMBIA",
+        "state_po":"DC",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":18586,
+        "totalvotes":344356
+    },
+    {
+        "year":2020,
+        "state":"FLORIDA",
+        "state_po":"FL",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":5297045,
+        "totalvotes":11067456
+    },
+    {
+        "year":2020,
+        "state":"FLORIDA",
+        "state_po":"FL",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":5668731,
+        "totalvotes":11067456
+    },
+    {
+        "year":2020,
+        "state":"GEORGIA",
+        "state_po":"GA",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":2473633,
+        "totalvotes":4999960
+    },
+    {
+        "year":2020,
+        "state":"GEORGIA",
+        "state_po":"GA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":2461854,
+        "totalvotes":4999960
+    },
+    {
+        "year":2020,
+        "state":"HAWAII",
+        "state_po":"HI",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":366130,
+        "totalvotes":579784
+    },
+    {
+        "year":2020,
+        "state":"HAWAII",
+        "state_po":"HI",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":196864,
+        "totalvotes":579784
+    },
+    {
+        "year":2020,
+        "state":"IDAHO",
+        "state_po":"ID",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":287021,
+        "totalvotes":868014
+    },
+    {
+        "year":2020,
+        "state":"IDAHO",
+        "state_po":"ID",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":554119,
+        "totalvotes":868014
+    },
+    {
+        "year":2020,
+        "state":"ILLINOIS",
+        "state_po":"IL",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":3471915,
+        "totalvotes":6033743
+    },
+    {
+        "year":2020,
+        "state":"ILLINOIS",
+        "state_po":"IL",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":2446891,
+        "totalvotes":6033743
+    },
+    {
+        "year":2020,
+        "state":"INDIANA",
+        "state_po":"IN",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1242416,
+        "totalvotes":3033118
+    },
+    {
+        "year":2020,
+        "state":"INDIANA",
+        "state_po":"IN",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1729519,
+        "totalvotes":3033118
+    },
+    {
+        "year":2020,
+        "state":"IOWA",
+        "state_po":"IA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":897672,
+        "totalvotes":1700130
+    },
+    {
+        "year":2020,
+        "state":"IOWA",
+        "state_po":"IA",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":759061,
+        "totalvotes":1700130
+    },
+    {
+        "year":2020,
+        "state":"KANSAS",
+        "state_po":"KS",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":771406,
+        "totalvotes":1372303
+    },
+    {
+        "year":2020,
+        "state":"KANSAS",
+        "state_po":"KS",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":570323,
+        "totalvotes":1372303
+    },
+    {
+        "year":2020,
+        "state":"KENTUCKY",
+        "state_po":"KY",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1326646,
+        "totalvotes":2136768
+    },
+    {
+        "year":2020,
+        "state":"KENTUCKY",
+        "state_po":"KY",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":772474,
+        "totalvotes":2136768
+    },
+    {
+        "year":2020,
+        "state":"LOUISIANA",
+        "state_po":"LA",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":856034,
+        "totalvotes":2148062
+    },
+    {
+        "year":2020,
+        "state":"LOUISIANA",
+        "state_po":"LA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1255776,
+        "totalvotes":2148062
+    },
+    {
+        "year":2020,
+        "state":"MAINE",
+        "state_po":"ME",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":435072,
+        "totalvotes":828305
+    },
+    {
+        "year":2020,
+        "state":"MAINE",
+        "state_po":"ME",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":360737,
+        "totalvotes":828305
+    },
+    {
+        "year":2020,
+        "state":"MARYLAND",
+        "state_po":"MD",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":976414,
+        "totalvotes":3037030
+    },
+    {
+        "year":2020,
+        "state":"MARYLAND",
+        "state_po":"MD",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1985023,
+        "totalvotes":3037030
+    },
+    {
+        "year":2020,
+        "state":"MASSACHUSETTS",
+        "state_po":"MA",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":2382202,
+        "totalvotes":3658005
+    },
+    {
+        "year":2020,
+        "state":"MASSACHUSETTS",
+        "state_po":"MA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1167202,
+        "totalvotes":3658005
+    },
+    {
+        "year":2020,
+        "state":"MICHIGAN",
+        "state_po":"MI",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":2804040,
+        "totalvotes":5539302
+    },
+    {
+        "year":2020,
+        "state":"MICHIGAN",
+        "state_po":"MI",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":2649852,
+        "totalvotes":5539302
+    },
+    {
+        "year":2020,
+        "state":"MINNESOTA",
+        "state_po":"MN",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1484065,
+        "totalvotes":3277171
+    },
+    {
+        "year":2020,
+        "state":"MINNESOTA",
+        "state_po":"MN",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1717077,
+        "totalvotes":3277171
+    },
+    {
+        "year":2020,
+        "state":"MISSISSIPPI",
+        "state_po":"MS",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":539398,
+        "totalvotes":1313759
+    },
+    {
+        "year":2020,
+        "state":"MISSISSIPPI",
+        "state_po":"MS",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":756764,
+        "totalvotes":1313759
+    },
+    {
+        "year":2020,
+        "state":"MISSOURI",
+        "state_po":"MO",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1718736,
+        "totalvotes":3025962
+    },
+    {
+        "year":2020,
+        "state":"MISSOURI",
+        "state_po":"MO",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1253014,
+        "totalvotes":3025962
+    },
+    {
+        "year":2020,
+        "state":"MONTANA",
+        "state_po":"MT",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":343602,
+        "totalvotes":603674
+    },
+    {
+        "year":2020,
+        "state":"MONTANA",
+        "state_po":"MT",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":244786,
+        "totalvotes":603674
+    },
+    {
+        "year":2020,
+        "state":"NEBRASKA",
+        "state_po":"NE",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":556846,
+        "totalvotes":956383
+    },
+    {
+        "year":2020,
+        "state":"NEBRASKA",
+        "state_po":"NE",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":374583,
+        "totalvotes":956383
+    },
+    {
+        "year":2020,
+        "state":"NEVADA",
+        "state_po":"NV",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":669890,
+        "totalvotes":1405376
+    },
+    {
+        "year":2020,
+        "state":"NEVADA",
+        "state_po":"NV",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":703486,
+        "totalvotes":1405376
+    },
+    {
+        "year":2020,
+        "state":"NEW HAMPSHIRE",
+        "state_po":"NH",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":365654,
+        "totalvotes":806182
+    },
+    {
+        "year":2020,
+        "state":"NEW HAMPSHIRE",
+        "state_po":"NH",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":424921,
+        "totalvotes":806182
+    },
+    {
+        "year":2020,
+        "state":"NEW JERSEY",
+        "state_po":"NJ",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1883274,
+        "totalvotes":4549353
+    },
+    {
+        "year":2020,
+        "state":"NEW JERSEY",
+        "state_po":"NJ",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":2608335,
+        "totalvotes":4549353
+    },
+    {
+        "year":2020,
+        "state":"NEW MEXICO",
+        "state_po":"NM",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":501614,
+        "totalvotes":923965
+    },
+    {
+        "year":2020,
+        "state":"NEW MEXICO",
+        "state_po":"NM",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":401894,
+        "totalvotes":923965
+    },
+    {
+        "year":2020,
+        "state":"NEW YORK",
+        "state_po":"NY",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":5230985,
+        "totalvotes":8661735
+    },
+    {
+        "year":2020,
+        "state":"NEW YORK",
+        "state_po":"NY",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":3244798,
+        "totalvotes":8661735
+    },
+    {
+        "year":2020,
+        "state":"NORTH CAROLINA",
+        "state_po":"NC",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":2758773,
+        "totalvotes":5524802
+    },
+    {
+        "year":2020,
+        "state":"NORTH CAROLINA",
+        "state_po":"NC",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":2684292,
+        "totalvotes":5524802
+    },
+    {
+        "year":2020,
+        "state":"NORTH DAKOTA",
+        "state_po":"ND",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":235595,
+        "totalvotes":361819
+    },
+    {
+        "year":2020,
+        "state":"NORTH DAKOTA",
+        "state_po":"ND",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":114902,
+        "totalvotes":361819
+    },
+    {
+        "year":2020,
+        "state":"OHIO",
+        "state_po":"OH",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":3154834,
+        "totalvotes":5922202
+    },
+    {
+        "year":2020,
+        "state":"OHIO",
+        "state_po":"OH",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":2679165,
+        "totalvotes":5922202
+    },
+    {
+        "year":2020,
+        "state":"OKLAHOMA",
+        "state_po":"OK",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1020280,
+        "totalvotes":1560699
+    },
+    {
+        "year":2020,
+        "state":"OKLAHOMA",
+        "state_po":"OK",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":503890,
+        "totalvotes":1560699
+    },
+    {
+        "year":2020,
+        "state":"OREGON",
+        "state_po":"OR",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":958448,
+        "totalvotes":2374321
+    },
+    {
+        "year":2020,
+        "state":"OREGON",
+        "state_po":"OR",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1340383,
+        "totalvotes":2374321
+    },
+    {
+        "year":2020,
+        "state":"PENNSYLVANIA",
+        "state_po":"PA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":3377674,
+        "totalvotes":6915283
+    },
+    {
+        "year":2020,
+        "state":"PENNSYLVANIA",
+        "state_po":"PA",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":3458229,
+        "totalvotes":6915283
+    },
+    {
+        "year":2020,
+        "state":"RHODE ISLAND",
+        "state_po":"RI",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":307486,
+        "totalvotes":516990
+    },
+    {
+        "year":2020,
+        "state":"RHODE ISLAND",
+        "state_po":"RI",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":199922,
+        "totalvotes":516990
+    },
+    {
+        "year":2020,
+        "state":"SOUTH CAROLINA",
+        "state_po":"SC",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1385103,
+        "totalvotes":2514096
+    },
+    {
+        "year":2020,
+        "state":"SOUTH CAROLINA",
+        "state_po":"SC",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1091541,
+        "totalvotes":2514096
+    },
+    {
+        "year":2020,
+        "state":"SOUTH DAKOTA",
+        "state_po":"SD",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":261043,
+        "totalvotes":422609
+    },
+    {
+        "year":2020,
+        "state":"SOUTH DAKOTA",
+        "state_po":"SD",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":150471,
+        "totalvotes":422609
+    },
+    {
+        "year":2020,
+        "state":"TENNESSEE",
+        "state_po":"TN",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1852475,
+        "totalvotes":3053851
+    },
+    {
+        "year":2020,
+        "state":"TENNESSEE",
+        "state_po":"TN",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1143711,
+        "totalvotes":3053851
+    },
+    {
+        "year":2020,
+        "state":"TEXAS",
+        "state_po":"TX",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":5890347,
+        "totalvotes":11315056
+    },
+    {
+        "year":2020,
+        "state":"TEXAS",
+        "state_po":"TX",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":5259126,
+        "totalvotes":11315056
+    },
+    {
+        "year":2020,
+        "state":"UTAH",
+        "state_po":"UT",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":560282,
+        "totalvotes":1488289
+    },
+    {
+        "year":2020,
+        "state":"UTAH",
+        "state_po":"UT",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":865140,
+        "totalvotes":1488289
+    },
+    {
+        "year":2020,
+        "state":"VERMONT",
+        "state_po":"VT",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":242820,
+        "totalvotes":370968
+    },
+    {
+        "year":2020,
+        "state":"VERMONT",
+        "state_po":"VT",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":112704,
+        "totalvotes":370968
+    },
+    {
+        "year":2020,
+        "state":"VIRGINIA",
+        "state_po":"VA",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":2413568,
+        "totalvotes":4460524
+    },
+    {
+        "year":2020,
+        "state":"VIRGINIA",
+        "state_po":"VA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1962430,
+        "totalvotes":4460524
+    },
+    {
+        "year":2020,
+        "state":"WASHINGTON",
+        "state_po":"WA",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":2369612,
+        "totalvotes":4087631
+    },
+    {
+        "year":2020,
+        "state":"WASHINGTON",
+        "state_po":"WA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1584651,
+        "totalvotes":4087631
+    },
+    {
+        "year":2020,
+        "state":"WEST VIRGINIA",
+        "state_po":"WV",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":235984,
+        "totalvotes":794652
+    },
+    {
+        "year":2020,
+        "state":"WEST VIRGINIA",
+        "state_po":"WV",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":545382,
+        "totalvotes":794652
+    },
+    {
+        "year":2020,
+        "state":"WISCONSIN",
+        "state_po":"WI",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":1630866,
+        "totalvotes":3298041
+    },
+    {
+        "year":2020,
+        "state":"WISCONSIN",
+        "state_po":"WI",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1610184,
+        "totalvotes":3298041
+    },
+    {
+        "year":2020,
+        "state":"WYOMING",
+        "state_po":"WY",
+        "candidate":"BIDEN, JOSEPH R. JR",
+        "party":"DEMOCRAT",
+        "votes":73491,
+        "totalvotes":278503
+    },
+    {
+        "year":2020,
+        "state":"WYOMING",
+        "state_po":"WY",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":193559,
+        "totalvotes":278503
+    },
+    {
+        "year":2024,
+        "state":"ALASKA",
+        "state_po":"AK",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":140026,
+        "totalvotes":338177
+    },
+    {
+        "year":2024,
+        "state":"ALASKA",
+        "state_po":"AK",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":184458,
+        "totalvotes":338177
+    },
+    {
+        "year":2024,
+        "state":"ALABAMA",
+        "state_po":"AL",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":772412,
+        "totalvotes":2265090
+    },
+    {
+        "year":2024,
+        "state":"ALABAMA",
+        "state_po":"AL",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1462616,
+        "totalvotes":2265090
+    },
+    {
+        "year":2024,
+        "state":"ARKANSAS",
+        "state_po":"AR",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":759241,
+        "totalvotes":1182676
+    },
+    {
+        "year":2024,
+        "state":"ARKANSAS",
+        "state_po":"AR",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":396905,
+        "totalvotes":1182676
+    },
+    {
+        "year":2024,
+        "state":"ARIZONA",
+        "state_po":"AZ",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1770242,
+        "totalvotes":3389319
+    },
+    {
+        "year":2024,
+        "state":"ARIZONA",
+        "state_po":"AZ",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1582860,
+        "totalvotes":3389319
+    },
+    {
+        "year":2024,
+        "state":"CALIFORNIA",
+        "state_po":"CA",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":9276179,
+        "totalvotes":15865475
+    },
+    {
+        "year":2024,
+        "state":"CALIFORNIA",
+        "state_po":"CA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":6081697,
+        "totalvotes":15865475
+    },
+    {
+        "year":2024,
+        "state":"COLORADO",
+        "state_po":"CO",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1728159,
+        "totalvotes":3192745
+    },
+    {
+        "year":2024,
+        "state":"COLORADO",
+        "state_po":"CO",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1377441,
+        "totalvotes":3192745
+    },
+    {
+        "year":2024,
+        "state":"CONNECTICUT",
+        "state_po":"CT",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":992053,
+        "totalvotes":1759010
+    },
+    {
+        "year":2024,
+        "state":"CONNECTICUT",
+        "state_po":"CT",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":736918,
+        "totalvotes":1759010
+    },
+    {
+        "year":2024,
+        "state":"DISTRICT OF COLUMBIA",
+        "state_po":"DC",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":294185,
+        "totalvotes":325869
+    },
+    {
+        "year":2024,
+        "state":"DISTRICT OF COLUMBIA",
+        "state_po":"DC",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":21076,
+        "totalvotes":325869
+    },
+    {
+        "year":2024,
+        "state":"DELAWARE",
+        "state_po":"DE",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":289758,
+        "totalvotes":512913
+    },
+    {
+        "year":2024,
+        "state":"DELAWARE",
+        "state_po":"DE",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":214351,
+        "totalvotes":512913
+    },
+    {
+        "year":2024,
+        "state":"FLORIDA",
+        "state_po":"FL",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":4683038,
+        "totalvotes":10893752
+    },
+    {
+        "year":2024,
+        "state":"FLORIDA",
+        "state_po":"FL",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":6110125,
+        "totalvotes":10893752
+    },
+    {
+        "year":2024,
+        "state":"GEORGIA",
+        "state_po":"GA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":2663117,
+        "totalvotes":5250905
+    },
+    {
+        "year":2024,
+        "state":"GEORGIA",
+        "state_po":"GA",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":2548017,
+        "totalvotes":5250905
+    },
+    {
+        "year":2024,
+        "state":"HAWAII",
+        "state_po":"HI",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":313044,
+        "totalvotes":522236
+    },
+    {
+        "year":2024,
+        "state":"HAWAII",
+        "state_po":"HI",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":193661,
+        "totalvotes":522236
+    },
+    {
+        "year":2024,
+        "state":"IOWA",
+        "state_po":"IA",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":707278,
+        "totalvotes":1663506
+    },
+    {
+        "year":2024,
+        "state":"IOWA",
+        "state_po":"IA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":927019,
+        "totalvotes":1663506
+    },
+    {
+        "year":2024,
+        "state":"IDAHO",
+        "state_po":"ID",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":605246,
+        "totalvotes":917466
+    },
+    {
+        "year":2024,
+        "state":"IDAHO",
+        "state_po":"ID",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":274972,
+        "totalvotes":917466
+    },
+    {
+        "year":2024,
+        "state":"ILLINOIS",
+        "state_po":"IL",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":2449079,
+        "totalvotes":5633310
+    },
+    {
+        "year":2024,
+        "state":"ILLINOIS",
+        "state_po":"IL",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":3062863,
+        "totalvotes":5633310
+    },
+    {
+        "year":2024,
+        "state":"INDIANA",
+        "state_po":"IN",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1720347,
+        "totalvotes":2936677
+    },
+    {
+        "year":2024,
+        "state":"INDIANA",
+        "state_po":"IN",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1163603,
+        "totalvotes":2936677
+    },
+    {
+        "year":2024,
+        "state":"KANSAS",
+        "state_po":"KS",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":758802,
+        "totalvotes":1327591
+    },
+    {
+        "year":2024,
+        "state":"KANSAS",
+        "state_po":"KS",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":544853,
+        "totalvotes":1327591
+    },
+    {
+        "year":2024,
+        "state":"KENTUCKY",
+        "state_po":"KY",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1337494,
+        "totalvotes":2074530
+    },
+    {
+        "year":2024,
+        "state":"KENTUCKY",
+        "state_po":"KY",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":704043,
+        "totalvotes":2074530
+    },
+    {
+        "year":2024,
+        "state":"LOUISIANA",
+        "state_po":"LA",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":766870,
+        "totalvotes":2006975
+    },
+    {
+        "year":2024,
+        "state":"LOUISIANA",
+        "state_po":"LA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1208505,
+        "totalvotes":2006975
+    },
+    {
+        "year":2024,
+        "state":"MASSACHUSETTS",
+        "state_po":"MA",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":2126518,
+        "totalvotes":3512930
+    },
+    {
+        "year":2024,
+        "state":"MASSACHUSETTS",
+        "state_po":"MA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1251303,
+        "totalvotes":3512930
+    },
+    {
+        "year":2024,
+        "state":"MARYLAND",
+        "state_po":"MD",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1902577,
+        "totalvotes":3038334
+    },
+    {
+        "year":2024,
+        "state":"MARYLAND",
+        "state_po":"MD",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1035550,
+        "totalvotes":3038334
+    },
+    {
+        "year":2024,
+        "state":"MAINE",
+        "state_po":"ME",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":435652,
+        "totalvotes":842447
+    },
+    {
+        "year":2024,
+        "state":"MAINE",
+        "state_po":"ME",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":377977,
+        "totalvotes":842447
+    },
+    {
+        "year":2024,
+        "state":"MICHIGAN",
+        "state_po":"MI",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":2816636,
+        "totalvotes":5664186
+    },
+    {
+        "year":2024,
+        "state":"MICHIGAN",
+        "state_po":"MI",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":2736533,
+        "totalvotes":5664186
+    },
+    {
+        "year":2024,
+        "state":"MINNESOTA",
+        "state_po":"MN",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1519032,
+        "totalvotes":3253920
+    },
+    {
+        "year":2024,
+        "state":"MINNESOTA",
+        "state_po":"MN",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1656979,
+        "totalvotes":3253920
+    },
+    {
+        "year":2024,
+        "state":"MISSOURI",
+        "state_po":"MO",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1751986,
+        "totalvotes":2995327
+    },
+    {
+        "year":2024,
+        "state":"MISSOURI",
+        "state_po":"MO",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1200599,
+        "totalvotes":2995327
+    },
+    {
+        "year":2024,
+        "state":"MISSISSIPPI",
+        "state_po":"MS",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":466668,
+        "totalvotes":1228008
+    },
+    {
+        "year":2024,
+        "state":"MISSISSIPPI",
+        "state_po":"MS",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":747744,
+        "totalvotes":1228008
+    },
+    {
+        "year":2024,
+        "state":"MONTANA",
+        "state_po":"MT",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":352079,
+        "totalvotes":602963
+    },
+    {
+        "year":2024,
+        "state":"MONTANA",
+        "state_po":"MT",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":231906,
+        "totalvotes":602963
+    },
+    {
+        "year":2024,
+        "state":"NORTH CAROLINA",
+        "state_po":"NC",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":2898423,
+        "totalvotes":5699141
+    },
+    {
+        "year":2024,
+        "state":"NORTH CAROLINA",
+        "state_po":"NC",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":2715375,
+        "totalvotes":5699141
+    },
+    {
+        "year":2024,
+        "state":"NORTH DAKOTA",
+        "state_po":"ND",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":246505,
+        "totalvotes":368155
+    },
+    {
+        "year":2024,
+        "state":"NORTH DAKOTA",
+        "state_po":"ND",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":112327,
+        "totalvotes":368155
+    },
+    {
+        "year":2024,
+        "state":"NEBRASKA",
+        "state_po":"NE",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":564816,
+        "totalvotes":952182
+    },
+    {
+        "year":2024,
+        "state":"NEBRASKA",
+        "state_po":"NE",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":369995,
+        "totalvotes":952182
+    },
+    {
+        "year":2024,
+        "state":"NEW HAMPSHIRE",
+        "state_po":"NH",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":418488,
+        "totalvotes":831033
+    },
+    {
+        "year":2024,
+        "state":"NEW HAMPSHIRE",
+        "state_po":"NH",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":395523,
+        "totalvotes":831033
+    },
+    {
+        "year":2024,
+        "state":"NEW JERSEY",
+        "state_po":"NJ",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":2220713,
+        "totalvotes":4272725
+    },
+    {
+        "year":2024,
+        "state":"NEW JERSEY",
+        "state_po":"NJ",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1968215,
+        "totalvotes":4272725
+    },
+    {
+        "year":2024,
+        "state":"NEW MEXICO",
+        "state_po":"NM",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":478802,
+        "totalvotes":923403
+    },
+    {
+        "year":2024,
+        "state":"NEW MEXICO",
+        "state_po":"NM",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":423391,
+        "totalvotes":923403
+    },
+    {
+        "year":2024,
+        "state":"NEVADA",
+        "state_po":"NV",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":705197,
+        "totalvotes":1484840
+    },
+    {
+        "year":2024,
+        "state":"NEVADA",
+        "state_po":"NV",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":751205,
+        "totalvotes":1484840
+    },
+    {
+        "year":2024,
+        "state":"NEW YORK",
+        "state_po":"NY",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":4619195,
+        "totalvotes":8381429
+    },
+    {
+        "year":2024,
+        "state":"NEW YORK",
+        "state_po":"NY",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":3578899,
+        "totalvotes":8381429
+    },
+    {
+        "year":2024,
+        "state":"OHIO",
+        "state_po":"OH",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":2533699,
+        "totalvotes":5767788
+    },
+    {
+        "year":2024,
+        "state":"OHIO",
+        "state_po":"OH",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":3180116,
+        "totalvotes":5767788
+    },
+    {
+        "year":2024,
+        "state":"OKLAHOMA",
+        "state_po":"OK",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1036213,
+        "totalvotes":1566173
+    },
+    {
+        "year":2024,
+        "state":"OKLAHOMA",
+        "state_po":"OK",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":499599,
+        "totalvotes":1566173
+    },
+    {
+        "year":2024,
+        "state":"OREGON",
+        "state_po":"OR",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":919480,
+        "totalvotes":2244493
+    },
+    {
+        "year":2024,
+        "state":"OREGON",
+        "state_po":"OR",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1240600,
+        "totalvotes":2244493
+    },
+    {
+        "year":2024,
+        "state":"PENNSYLVANIA",
+        "state_po":"PA",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":3423042,
+        "totalvotes":7034206
+    },
+    {
+        "year":2024,
+        "state":"PENNSYLVANIA",
+        "state_po":"PA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":3543308,
+        "totalvotes":7034206
+    },
+    {
+        "year":2024,
+        "state":"RHODE ISLAND",
+        "state_po":"RI",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":285156,
+        "totalvotes":513086
+    },
+    {
+        "year":2024,
+        "state":"RHODE ISLAND",
+        "state_po":"RI",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":214406,
+        "totalvotes":513086
+    },
+    {
+        "year":2024,
+        "state":"SOUTH CAROLINA",
+        "state_po":"SC",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1483747,
+        "totalvotes":2548140
+    },
+    {
+        "year":2024,
+        "state":"SOUTH CAROLINA",
+        "state_po":"SC",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1028452,
+        "totalvotes":2548140
+    },
+    {
+        "year":2024,
+        "state":"SOUTH DAKOTA",
+        "state_po":"SD",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":146859,
+        "totalvotes":428922
+    },
+    {
+        "year":2024,
+        "state":"SOUTH DAKOTA",
+        "state_po":"SD",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":272081,
+        "totalvotes":428922
+    },
+    {
+        "year":2024,
+        "state":"TENNESSEE",
+        "state_po":"TN",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1966865,
+        "totalvotes":3063942
+    },
+    {
+        "year":2024,
+        "state":"TENNESSEE",
+        "state_po":"TN",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1056265,
+        "totalvotes":3063942
+    },
+    {
+        "year":2024,
+        "state":"TEXAS",
+        "state_po":"TX",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":6393597,
+        "totalvotes":11388674
+    },
+    {
+        "year":2024,
+        "state":"TEXAS",
+        "state_po":"TX",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":4835250,
+        "totalvotes":11388674
+    },
+    {
+        "year":2024,
+        "state":"UTAH",
+        "state_po":"UT",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":883818,
+        "totalvotes":1488494
+    },
+    {
+        "year":2024,
+        "state":"UTAH",
+        "state_po":"UT",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":562566,
+        "totalvotes":1488494
+    },
+    {
+        "year":2024,
+        "state":"VIRGINIA",
+        "state_po":"VA",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":2333778,
+        "totalvotes":4503288
+    },
+    {
+        "year":2024,
+        "state":"VIRGINIA",
+        "state_po":"VA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":2074097,
+        "totalvotes":4503288
+    },
+    {
+        "year":2024,
+        "state":"VERMONT",
+        "state_po":"VT",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":235791,
+        "totalvotes":372885
+    },
+    {
+        "year":2024,
+        "state":"VERMONT",
+        "state_po":"VT",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":119395,
+        "totalvotes":372885
+    },
+    {
+        "year":2024,
+        "state":"WASHINGTON",
+        "state_po":"WA",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":2245849,
+        "totalvotes":3924243
+    },
+    {
+        "year":2024,
+        "state":"WASHINGTON",
+        "state_po":"WA",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1530923,
+        "totalvotes":3924243
+    },
+    {
+        "year":2024,
+        "state":"WISCONSIN",
+        "state_po":"WI",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":1668229,
+        "totalvotes":3422918
+    },
+    {
+        "year":2024,
+        "state":"WISCONSIN",
+        "state_po":"WI",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":1697626,
+        "totalvotes":3422918
+    },
+    {
+        "year":2024,
+        "state":"WEST VIRGINIA",
+        "state_po":"WV",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":533556,
+        "totalvotes":762584
+    },
+    {
+        "year":2024,
+        "state":"WEST VIRGINIA",
+        "state_po":"WV",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":214309,
+        "totalvotes":762584
+    },
+    {
+        "year":2024,
+        "state":"WYOMING",
+        "state_po":"WY",
+        "candidate":"TRUMP, DONALD J.",
+        "party":"REPUBLICAN",
+        "votes":192633,
+        "totalvotes":271123
+    },
+    {
+        "year":2024,
+        "state":"WYOMING",
+        "state_po":"WY",
+        "candidate":"HARRIS, KAMALA D.",
+        "party":"DEMOCRAT",
+        "votes":69527,
+        "totalvotes":271123
+    }
+]
