@@ -2,9 +2,9 @@ import pandas as pd
 import json
 from pymongo import MongoClient 
 
-channels_df = pd.read_csv("cleaned_data/youtube/channels.csv")
-videos_df = pd.read_csv("cleaned_data/youtube/top_5_videos.csv")
-comments_df = pd.read_csv("cleaned_data/youtube/comments_with_sentiment.csv")
+channels_df = pd.read_csv("channels.csv")
+videos_df = pd.read_csv("top_5_videos.csv")
+comments_df = pd.read_csv("comments_with_sentiment.csv")
 
 merged = comments_df.merge(videos_df, on="video_id")
 merged = merged.merge(channels_df, on="channel_id")
@@ -73,7 +73,7 @@ for index, row in merged.iterrows():
 documents = list(channels.values())
 
 # Write to JSON file
-with open("cleaned_data/youtube/youtube.json", "w") as f:
+with open("youtube.json", "w") as f:
     json.dump(documents, f, indent=2)
 
 print("JSON file created")
