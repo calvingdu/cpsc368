@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+from pymongo import MongoClient 
 
 channels_df = pd.read_csv("cleaned_data/youtube/channels.csv")
 videos_df = pd.read_csv("cleaned_data/youtube/top_5_videos.csv")
@@ -75,5 +76,18 @@ documents = list(channels.values())
 with open("cleaned_data/youtube/youtube.json", "w") as f:
     json.dump(documents, f, indent=2)
 
-# Console log for debug
 print("JSON file created")
+
+# NOTE: Ensure MongoDB is installed and running locally on port 27017
+client = MongoClient("mongodb://localhost:27017/")
+db = client["youtube_db"]
+collection = db["channels"]
+
+# Clear old data
+collection.delete_many({})
+
+# Insert documents
+if documents:
+    collection.insert_many(documents)
+
+print("Data inserted into MongoDB")
