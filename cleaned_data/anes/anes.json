@@ -1,0 +1,7002 @@
+[
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 45.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 65.0,
+    "republican_thermometer": 65.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 20.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 37.0,
+    "republican_thermometer": 32.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 5.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 10.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 98.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 63.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Refused",
+    "democrat_thermometer": null,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": null,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 16.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 5.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 25.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 10.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 25.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 20.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 5.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 1.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 10.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 45.0,
+    "republican_thermometer": 55.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 1.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 5.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 1.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 20.0,
+    "republican_thermometer": 5.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 25.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 68.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 65.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 20.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 2.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 10.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 45.0,
+    "republican_thermometer": 51.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 10.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 20.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 65.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 55.0,
+    "republican_thermometer": 65.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 5.0,
+    "republican_thermometer": 95.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 55.0,
+    "republican_thermometer": 20.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 80.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 58.0,
+    "republican_thermometer": 54.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 10.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 65.0,
+    "republican_thermometer": 1.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 45.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 5.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 20.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": null,
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 2.0,
+    "republican_thermometer": 95.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 65.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "No",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2020
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 80.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 12.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 80.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 18.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 86.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 5.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 25.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 72.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 25.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 55.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 75.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 95.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 10.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 55.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 2.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 5.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 80.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": null,
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": null,
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 77.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 20.0,
+    "republican_thermometer": 55.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 25.0,
+    "republican_thermometer": 20.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 80.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 45.0,
+    "republican_thermometer": 75.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 5.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 5.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 47.0,
+    "republican_thermometer": 53.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 55.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 5.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 98.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 20.0,
+    "republican_thermometer": 80.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 87.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 99.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 10.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 20.0,
+    "republican_thermometer": 80.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": null,
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 10.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 35.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 20.0,
+    "republican_thermometer": 35.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 95.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 10.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 10.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 1.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 25.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 45.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": null,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 98.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 75.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 99.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 45.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 10.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 50.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 95.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 95.0,
+    "republican_thermometer": 10.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 80.0,
+    "republican_thermometer": 2.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 70.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 30.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 30.0,
+    "republican_thermometer": 90.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 40.0,
+    "republican_thermometer": 85.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 10.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 2.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 60.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Conservative",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "DK",
+    "democrat_thermometer": 25.0,
+    "republican_thermometer": 40.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 15.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly conservative",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 60.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 50.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": null,
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 100.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 85.0,
+    "republican_thermometer": 2.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely conservative",
+    "democrat_thermometer": 0.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 70.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Slightly liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "No",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Moderate",
+    "democrat_thermometer": 15.0,
+    "republican_thermometer": 80.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Extremely Liberal",
+    "democrat_thermometer": 90.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": 100.0,
+    "republican_thermometer": 0.0,
+    "youtube_use": "Yes",
+    "election_year": 2024
+  },
+  {
+    "lib_con_scale": "Liberal",
+    "democrat_thermometer": null,
+    "republican_thermometer": null,
+    "youtube_use": null,
+    "election_year": 2024
+  }
+]
