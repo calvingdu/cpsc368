@@ -2,9 +2,9 @@ import pandas as pd
 import json
 from pymongo import MongoClient 
 
-channels_df = pd.read_csv("cleaned_data/youtube/channels.csv")
-videos_df = pd.read_csv("cleaned_data/youtube/top_5_videos.csv")
-comments_df = pd.read_csv("cleaned_data/youtube/comments_with_sentiment.csv")
+channels_df = pd.read_csv("channels.csv")
+videos_df = pd.read_csv("top_5_videos.csv")
+comments_df = pd.read_csv("comments_with_sentiment.csv")
 
 # Start from videos_df with left joins so no videos are dropped
 merged = videos_df.merge(comments_df, on="video_id", how="left")
@@ -74,8 +74,8 @@ print("JSON file created")
 
 # NOTE: Ensure MongoDB is installed and running locally on port 27017
 client = MongoClient("mongodb://localhost:27017/")
-db = client["youtube_db"]
-collection = db["channels"]
+db = client["group4"]
+collection = db["youtube"]
 
 # Clear old data
 collection.delete_many({})
